@@ -1,0 +1,52 @@
+
+h1{
+    color: red;
+}
+
+h2{
+    color: tomato;
+    font-style: italic;
+}
+
+.ls{
+    line-height: 50px;
+    color: indianred;
+}
+
+.sl{
+    text-decoration: line-through;
+}
+
+.hy{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.ul{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.lsp{
+    letter-spacing: 10px;
+    color: blueviolet;
+}
+
+.p{
+    color: brown;
+}
+
+a{
+    background-color: yellow;
+    color: red;
+    font-style: italic;
+    text-decoration:none;
+}
+
+
+
+
+
+
+
+
